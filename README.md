@@ -19,8 +19,6 @@ Technologies used:
 - Jaws Database
 - Heroku
 
-
-
 ## Table of Contents
 
 * [Description](#description)
@@ -45,17 +43,6 @@ Once a student is checked into a room, the room's status becomes "Not Available.
 * [Irene Asay](https://github.com/IreneAsay)
 * [Val Kimani](https://github.com/Valkimani)
 * [Ashley Ikeh](https://github.com/Aikeh2021)
-
-
-
-## User Story
-
-AS a library manager, who is cautious of COVID-19.
-I WANT to be able to create a study room, change the availability of the room, and clean the room after each use.
-
-## Usage 
-Once a student is checked into a room, the room's status becomes "Not Available." After check-out, the room's status does not become "Available" until the room has been sterilized (using the "sanitize" feature). Sanitization after each use of a room is suggested in accordance with COVID safety purposes. Later versions of the app will allow documentation of student names and the time at which reservations are opened, for use with contact tracing.
-
 
 
 ## Credits
